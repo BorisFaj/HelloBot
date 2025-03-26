@@ -1,0 +1,8 @@
+mediapipe
+mss
+opencv-python
+PySide6
+deepface
+face_recognition
+dlib
+tf-keras
